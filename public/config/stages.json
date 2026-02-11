@@ -1,0 +1,6 @@
+{
+  "stages": [
+    { "id": "stage_001", "name": "现实舞台 001（歌名）", "bgName": "舞台 A", "costStamina": 20, "outfitUnlock": "stageSet_001" },
+    { "id": "stage_002", "name": "现实舞台 002（歌名）", "bgName": "舞台 B", "costStamina": 25, "outfitUnlock": null }
+  ]
+}
